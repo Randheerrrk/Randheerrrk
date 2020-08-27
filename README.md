@@ -1,4 +1,4 @@
-<p align="left"> Hey there, myself Randheer Ramesh, Im a computer science and engineering student from the beautiful place called Kerala. First things first I love coding. Coding is something that </p>
+<p align="left"> Hey there, myself Randheer Ramesh, Im a computer science and engineering student from the beautiful place called Kerala. First things first I love coding. And  I believe that AI will help humanity in future issues like Zombie apocalypse and Alien invasion🦾</p>
 
 ### Languages and Tools:
 
