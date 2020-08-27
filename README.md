@@ -1,4 +1,12 @@
-<h3 align="left"> Hey there, myself Randheer Ramesh, Im a computer💻💻 science and engineering student from the beautiful😍😍 place called Kerala. First things first I love coding. And  I believe that AI will help humanity in future issues like Zombie💀💀 apocalypse and Alien👽👽 invasion🦾🦾</h3>
+<h3 align="left"> Hey there, myself Randheer Ramesh, Im a computer💻💻 science and engineering student from the beautiful😍😍 place called Kerala. First things first I love coding.I always engage mysefl in things that i love to do. I'm currently into Artificial Intelligence🧠🤖 and Data Structures and Algorithms 🤓. And  I believe that AI will help humanity in future issues like Zombie💀💀 apocalypse and Alien👽👽 invasion🦾🦾</h3>
+
+### More about me...
+
+- 🔭 I’m currently working on Pytorch, fastai, React, Graphql, appolo, etc 💻.
+- 🌱 I’m currently learning Full Stack Development 🚀 and self supervised learning🦾 .
+- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
+- 📫 How to reach me: randheerrrk@gmail.com 
+- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, MySQL, etc.
 
 ### Languages and Tools:
 <p>
@@ -15,11 +23,6 @@
 <img align="left" alt="gql" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img align="left" alt="mysql" width="26px"  src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 </p>
-<br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randheerrrk&theme=radical&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=randheerrrk&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
-</p>
 
 ### Connect me 
 
@@ -29,3 +32,12 @@
   <a href="https://www.facebook.com/randheer.rrk"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"></a>
   <a href="https://twitter.com/randheerrrk"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://img.icons8.com/doodle/50/000000/twitter.png"></a>
 </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randheerrrk&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=randheerrrk&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+</p>
+
+
+### Show some ❤️ by starring some of the repositories!
+---
+⭐️ From [Randheerrrk](https://github.com/Randheerrrk)
