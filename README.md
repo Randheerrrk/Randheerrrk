@@ -1,4 +1,4 @@
-<h3 align="left"> Hey there ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)</h3>
+<h3 align="left"> Hey there </h3>
 myself Randheer Ramesh, Im a computer💻💻 science and engineering student from the beautiful😍😍 place called Kerala. First things first I love coding.I always engage mysefl in things that i love to do. I'm currently into Artificial Intelligence🧠🤖 and Data Structures and Algorithms 🤓. And  I believe that AI will help humanity in future issues like Zombie💀💀 apocalypse and Alien👽👽 invasion🦾🦾</h3>
 
 ### More about me...
@@ -28,8 +28,8 @@ myself Randheer Ramesh, Im a computer💻💻 science and engineering student fr
 <p> </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randheerrrk&theme=radical&hide_langs_below=1&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=randheerrrk&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randheerrrk&hide_langs_below=1&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=randheerrrk&show_icons=true&line_height=21" alt="Ohidur's github stats"/>
 </p>
 
 ### Connect me   
