@@ -19,7 +19,7 @@ myself Randheer Ramesh, Im a computer💻💻 science and engineering student fr
 </p>
 
 ### Languages and Tools:
-<p align="left>
+<p align="left">
   <img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img align="left" alt="c" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
