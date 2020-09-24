@@ -33,10 +33,9 @@ myself Randheer Ramesh, Im a computer💻💻 science and engineering student fr
   <a href="#"><img alt="css" width="26px"  src="https://img.icons8.com/color/48/000000/css3.png"/></a>
   <a href="#"><img alt="gql" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png"/></a>
   <a href="#"><img alt="mysql" width="26px"  src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/></a>
-  <a href="#"><img alt="mysql" width="26px"  src="https://api.iconify.design/logos:tensorflow.svg"/></a>
-  <a href="#"><img alt="mysql" width="26px"  src="https://api.iconify.design/logos:pytorch.svg"/></a>
-  <a href="#"><img alt="mysql" width="26px"  src="https://api.iconify.design/logos:react.svg"/></a>
-  <a href="#"><img alt="mysql" width="26px"  src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/></a>
+  <a href="#"><img alt="tensorflow" width="26px"  src="https://api.iconify.design/logos:tensorflow.svg"/></a>
+  <a href="#"><img alt="pytorch" width="26px"  src="https://api.iconify.design/logos:pytorch.svg"/></a>
+  <a href="#"><img alt="react" width="26px"  src="https://api.iconify.design/logos:react.svg"/></a>
 </p>
 
 ### Connect me   
