@@ -29,14 +29,14 @@ myself Randheer Ramesh, Im a computer💻💻 science and engineering student fr
   <img align="left" alt="mysql" width="26px"  src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 </p>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randheerrrk&theme=radical&hide_langs_below=1&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=randheerrrk&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats" />
-</a>
-
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randheerrrk&theme=radical&hide_langs_below=1&layout=compact" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=randheerrrk&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats" />
+  </a>
+</p>
 
 ### Connect me   
 <p align="left">
