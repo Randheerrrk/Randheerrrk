@@ -1,3 +1,4 @@
+
 <h3 align="left"> Hey there</h3>
 myself Randheer Ramesh, Im a computer💻💻 science and engineering student from the beautiful😍😍 place called Kerala. First things first I love coding.I always engage mysefl in things that i love to do. I'm currently into Artificial Intelligence🧠🤖 and Data Structures and Algorithms 🤓. And  I believe that AI will help humanity in future issues like Zombie💀💀 apocalypse and Alien👽👽 invasion🦾🦾</h3>
 
@@ -20,22 +21,22 @@ myself Randheer Ramesh, Im a computer💻💻 science and engineering student fr
 
 ### Languages and Tools:
 <p align="left">
-  <img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img align="left" alt="c" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img align="left" alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img align="left" alt="golang" width="26px"  src="https://img.icons8.com/color/48/000000/golang.png"/>
-  <img align="left" alt="dart" width="26px"  src="https://api.iconify.design/logos:dart.svg"/>
-  <img align="left" alt="js" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img align="left" alt="ts" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img align="left" alt="html" width="26px"  src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img align="left" alt="css" width="26px"  src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img align="left" alt="gql" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png"/>
-  <img align="left" alt="mysql" width="26px"  src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
-  <img align="left" alt="mysql" width="26px"  src="https://api.iconify.design/logos:tensorflow.svg"/>
-  <img align="left" alt="mysql" width="26px"  src="https://api.iconify.design/logos:pytorch.svg"/>
-  <img align="left" alt="mysql" width="26px"  src="https://api.iconify.design/logos:react.svg"/>
-  <img align="left" alt="mysql" width="26px"  src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
+  <a href="#"><img alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+  <a href="#"><img alt="c" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+  <a href="#"><img alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+  <a href="#"><img alt="python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/></a>
+  <a href="#"><img alt="golang" width="26px"  src="https://img.icons8.com/color/48/000000/golang.png"/></a>
+  <a href="#"><img alt="dart" width="26px"  src="https://api.iconify.design/logos:dart.svg"/></a>
+  <a href="#"><img alt="js" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+  <a href="#"><img alt="ts" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+  <a href="#"><img alt="html" width="26px"  src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+  <a href="#"><img alt="css" width="26px"  src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+  <a href="#"><img alt="gql" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png"/></a>
+  <a href="#"><img alt="mysql" width="26px"  src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/></a>
+  <a href="#"><img alt="mysql" width="26px"  src="https://api.iconify.design/logos:tensorflow.svg"/></a>
+  <a href="#"><img alt="mysql" width="26px"  src="https://api.iconify.design/logos:pytorch.svg"/></a>
+  <a href="#"><img alt="mysql" width="26px"  src="https://api.iconify.design/logos:react.svg"/></a>
+  <a href="#"><img alt="mysql" width="26px"  src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/></a>
 </p>
 
 ### Connect me   
