@@ -9,6 +9,15 @@ myself Randheer Ramesh, Im a computer💻💻 science and engineering student fr
 - 📫 How to reach me: randheerrrk@gmail.com 
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, MySQL, etc.
 
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randheerrrk&theme=radical&hide_langs_below=1&layout=compact" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=randheerrrk&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats" />
+  </a>
+</p>
+
 ### Languages and Tools:
 <p>
   <img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -27,15 +36,6 @@ myself Randheer Ramesh, Im a computer💻💻 science and engineering student fr
   <img align="left" alt="mysql" width="26px"  src="https://api.iconify.design/logos:pytorch.svg"/>
   <img align="left" alt="mysql" width="26px"  src="https://api.iconify.design/logos:react.svg"/>
   <img align="left" alt="mysql" width="26px"  src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
-</p>
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randheerrrk&theme=radical&hide_langs_below=1&layout=compact" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=randheerrrk&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats" />
-  </a>
 </p>
 
 ### Connect me   
