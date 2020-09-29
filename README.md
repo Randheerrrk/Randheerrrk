@@ -1,7 +1,7 @@
 
 <h3 align="left"> Hey there</h3>
 myself Randheer Ramesh, Im a computer💻💻 science and engineering student from the beautiful😍😍 place called Kerala. First things first I love coding.I always engage mysefl in things that i love to do. I'm currently into Artificial Intelligence🧠🤖 and Data Structures and Algorithms 🤓. And  I believe that AI will help humanity in future issues like Zombie💀💀 apocalypse and Alien👽👽 invasion🦾🦾</h3>
-
+---
 ### More about me...
 
 - 🔭 I’m currently working on Pytorch, fastai, React, Graphql, appolo, etc 💻.
@@ -9,7 +9,7 @@ myself Randheer Ramesh, Im a computer💻💻 science and engineering student fr
 - 👯 I’m looking to collaborate on any Open Source Project.
 - 📫 How to reach me: randheerrrk@gmail.com 
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, MySQL, etc.
-
+---
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randheerrrk&theme=radical&hide_langs_below=1&layout=compact" />
@@ -18,7 +18,7 @@ myself Randheer Ramesh, Im a computer💻💻 science and engineering student fr
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=randheerrrk&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats" />
   </a>
 </p>
-
+---
 ### Languages and Tools:
 <p align="left">
   <a href="#"><img alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
