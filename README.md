@@ -1,14 +1,3 @@
-
-<h3 align="left"> Hey there</h3>
-myself Randheer Ramesh, Im a computer💻💻 science and engineering student from the beautiful😍😍 place called Kerala. First things first I love coding.I always engage mysefl in things that i love to do. I'm currently into Artificial Intelligence🧠🤖 and Data Structures and Algorithms 🤓. And  I believe that AI will help humanity in future issues like Zombie💀💀 apocalypse and Alien👽👽 invasion🦾🦾</h3>
-
-### More about me...
-
-- 🔭 I’m currently working on Pytorch, fastai, React, Graphql, appolo, etc 💻.
-- 🌱 I’m currently learning Full Stack Development 🚀 and self supervised learning🦾 .
-- 👯 I’m looking to collaborate on any Open Source Project.
-- 📫 How to reach me: randheerrrk@gmail.com 
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, MySQL, etc.
 ---
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
