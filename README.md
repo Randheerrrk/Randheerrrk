@@ -48,6 +48,5 @@ myself Randheer Ramesh, Im a computer💻💻 science and engineering student fr
 
 
 
-### Show some ❤️ by staring some of the repositories!
----
-⭐️ From [Randheerrrk](https://github.com/Randheerrrk)
+### ❤️ 
+
